@@ -1,4 +1,4 @@
 // write your code below!
-function logShout(string){ 
+function logShout(string){
   return "Happy Holidays!"
 }
